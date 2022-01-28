@@ -3,6 +3,6 @@ Al presionar el  botón,
 se debe mostrar un mensaje como el siguiente "Esto funciona de maravilla"*/
 function mostrar()
 {
-	alert("todo normal x1");
+	alert("hola mundo normal x1");
 }
 
